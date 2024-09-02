@@ -1,1 +1,1 @@
-export { formatPassTime } from './format';
+export * from './format';
